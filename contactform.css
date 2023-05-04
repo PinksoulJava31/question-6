@@ -59,3 +59,8 @@ button[type="submit"] {
 button[type="submit"]:hover {
     background-color: thistle;
 }
+.form1{
+    width: 50%;
+    background: rgb(40, 159, 161);
+    margin: auto;
+}
